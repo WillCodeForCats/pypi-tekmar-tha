@@ -4,7 +4,7 @@ Tekmar Home Automation
 This is a packaging of sample code from Tekmar (Watts) with updates to work with Python 3.
 
 Created for Home Assistant (home-assistant.io) to build a personal custom integration
-for my home heating and cooling systems which use Tekmar networked thermostats.
+for my home heating and cooling system which uses Tekmar networked thermostats.
 
 ## Credits
 
